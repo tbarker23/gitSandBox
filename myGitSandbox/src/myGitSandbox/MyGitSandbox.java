@@ -26,5 +26,9 @@ public class MyGitSandbox
 	{
 		System.out.println(s);
 	}
+	public static int returnzero()
+	{	
+		return 0;
+	}
 
 }
